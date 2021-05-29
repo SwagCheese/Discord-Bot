@@ -1,0 +1,24 @@
+{
+  "name": "discord-bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "bot.js",
+  "scripts": {
+    "start": "npx nodemon bot.js"
+  },
+  "author": "SwagCheese",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "discord.js": "^12.5.3",
+    "express": "^4.17.1",
+    "forever": "^3.0.4",
+    "minecraft-server-ping": "0.0.2",
+    "mojang-api": "0.0.2",
+    "nodemon": "^2.0.7",
+    "opusscript": "0.0.7",
+    "request-promise": "^4.2.6",
+    "selenium-webdriver": "^4.0.0-beta.3",
+    "ytdl-core": "^4.8.0"
+  }
+}
